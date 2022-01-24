@@ -1,1 +1,2 @@
-https://tcoducayen.github.io readme for github.com/tcoducayen.github.io
+https://tcoducayen.github.ioreadme for github.com/tcoducayen.github.io
+I added this in a seperate query
